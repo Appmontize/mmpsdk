@@ -23,7 +23,6 @@ MmpSdk.initialize(this)
 
 
 
-
 Track Events
 Use the SDK to track user events:
 
